@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prakash-if
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Statistics
+- 🌱 I’m currently learning Machine Learning
 - 📫 Email: prakashmeena1073@gmail.com
 - 😄 Pronouns: Excited
 - ⚡ Fun fact: sleepy
