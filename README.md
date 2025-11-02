@@ -15,7 +15,7 @@
 ---
 
 ### 🌐 Connect with Me
-- 🌐 LinkedIn: [LinkedIn](https://www.linkedin.com/in/linkedin.com/in/prakash-meena-0683a028a)
+- 🌐 LinkedIn: [Prakash Meena](https://www.linkedin.com/in/prakash-meena-0683a028a)
 - 📧 Email: prakashmeena1073@gmail.com
 
 ---
