@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Prakash Meena!
 
-🎓 I'm a B.Tech Electrical Engineering student at Amity University, Jaipur.  
+🎓 I'm a B.Tech Electrical Engineering student at MNIT Jaipur.  
 💡 Passionate about Data Science, Machine Learning, and AI-driven innovations.  
 🚀 I love creating intelligent systems, exploring data, and building ML projects.
 
@@ -15,9 +15,8 @@
 ---
 
 ### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-link)
-- [Portfolio](https://your-portfolio-link.com)
-- 📧 Email: your.email@example.com
+- 🌐 LinkedIn: [LinkedIn](https://www.linkedin.com/in/your-link)
+- 📧 Email: prakashmeena1073@gmail.com
 
 ---
 
